@@ -1,5 +1,13 @@
 # 🦙 LLaMA - Run LLM in A Single 4GB GPU
 
+##### Fork of juncongmoo's pyllama with additional documentation. This is an attempt to run it on a notebook GTX 1650 4GB.
+
+1. Install CUDA, matching version in https://pytorch.org/get-started/locally/
+2. Create virtual environment in conda
+3. Install pytorch with CUDA support https://pytorch.org/get-started/locally/
+
+
+---
 
 > 📢 `pyllama` is a hacked version of `LLaMA` based on original Facebook's implementation but more convenient to run in a Single consumer grade GPU.
 
